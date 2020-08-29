@@ -1,7 +1,7 @@
 ## Deep Learning
-..* This repository has all solutions, assignments, files and slides for [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) at Coursera
+* This repository has all solutions, assignments, files and slides for [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) at Coursera
 
-..* [Drive Link](https://drive.google.com/drive/folders/18cWuPh4jSS8f59mH9Py9q1B0kfBc_1Qk?usp=sharing) for all big files (slides, yolo.h5, ResNet50.h5, imagenet-vgg-verydeep-19.mat, glove.6B.50d.txt, X.npy, X_dev.npy)
+* [Drive Link](https://drive.google.com/drive/folders/18cWuPh4jSS8f59mH9Py9q1B0kfBc_1Qk?usp=sharing) for all big files (slides, yolo.h5, ResNet50.h5, imagenet-vgg-verydeep-19.mat, glove.6B.50d.txt, X.npy, X_dev.npy)
 
 ## How to download coursera jupyter notebook and all reference files ?
 
